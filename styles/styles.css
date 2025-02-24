@@ -20,9 +20,98 @@ img:hover{
     color: rgb(49, 42, 12); 
     font-size: 20px;
     line-height: 0.5;
+    text-align: center;
+}
+.titulocuatro{
+    color: rgb(55, 116, 27); 
+    font-size: 20px;
+    line-height: 0.5;
+    text-align: center;
 }
 
 .Catalogo-de-frapees{
-    display: flex
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
 
+.Catalogo-de-imagenes{
+    display: flex;
+}
+
+.logo{
+    display: flex;
+    align-items:normal
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.boton1{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    background-color: rgb(224, 176, 176);
+    padding: 5x;
+    height: 5vh;
+    margin: 5px 0;
+    justify-content: space-evenly;
+    border-radius: .5cm;
+    margin-top: .5cm;
+    right: .5cm;
+}
+.boton2{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    background-color: rgb(224, 176, 176);
+    padding: 5x;
+    height: 5vh;
+    margin: 5px 0;
+    justify-content: space-evenly;
+    border-radius: .5cm;
+    margin-top: .5cm;
+    right: .5cm;
+}
+.boton3{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    background-color: rgb(224, 176, 176);
+    padding: 5x;
+    height: 5vh;
+    margin: 5px 0;
+    justify-content: space-evenly;
+    border-radius: .5cm;
+    margin-top: .5cm;
+    right: .5cm;
+}
+
+.boton4{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    background-color: rgb(224, 176, 176);
+    padding: 5x;
+    height: 5vh;
+    margin: 5px 0;
+    justify-content: space-evenly;
+    border-radius: .5cm;
+    margin-top: .5cm;
+    right: .5cm;
+}
+
+.boton5{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    background-color: rgb(224, 176, 176);
+    padding: 5x;
+    height: 5vh;
+    margin: 5px 0;
+    justify-content: space-evenly;
+    border-radius: .5cm;
+    margin-top: .5cm;
+    right: .5cm;
+}
