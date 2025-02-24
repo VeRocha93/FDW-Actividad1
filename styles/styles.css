@@ -1,15 +1,28 @@
 body {
-    background-color: rgb(212, 196, 228);
+    background-color: rgb(216, 209, 223);
 }
 
 .tituloUno{
     color: rgba(10, 12, 134, 0.911);
+    text-align: center;
 }
 
 .tituloDos{
     color: rgb(155, 14, 148);
+    
 }
 
 img:hover{
     transform: scale(1.7);
 }
+
+.tituloTres{
+    color: rgb(49, 42, 12); 
+    font-size: 20px;
+    line-height: 0.5;
+}
+
+.Catalogo-de-frapees{
+    display: flex
+}
+
